@@ -1,0 +1,1 @@
+A very concise implementation of the differentiable Viterbi algorithm presented in Mensch, Arthur, and Mathieu Blondel. "Differentiable dynamic programming for structured prediction and attention." International Conference on Machine Learning. PMLR, 2018.
